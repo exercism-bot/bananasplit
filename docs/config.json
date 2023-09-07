@@ -1,0 +1,32 @@
+{
+  "docs": [
+    {
+      "uuid": "9efa57a3-d2c1-4cd6-a07b-568231e00d09",
+      "slug": "installation",
+      "path": "docs/INSTALLATION.md",
+      "title": "Installing BananaSplit locally",
+      "blurb": "Learn how to install BananaSplit locally to solve Exercism's exercises on your own machine"
+    },
+    {
+      "uuid": "e1775c46-779c-4700-950c-b47745080c0a",
+      "slug": "learning",
+      "path": "docs/LEARNING.md",
+      "title": "How to learn BananaSplit",
+      "blurb": "An overview of how to get started from scratch with BananaSplit"
+    },
+    {
+      "uuid": "5e330b4f-3b4c-433a-84a2-860a8a92ea33",
+      "slug": "tests",
+      "path": "docs/TESTS.md",
+      "title": "Testing on the BananaSplit track",
+      "blurb": "Learn how to test your BananaSplit exercises on Exercism"
+    },
+    {
+      "uuid": "a9279b4f-6672-4869-9795-ae9a077b73ae",
+      "slug": "resources",
+      "path": "docs/RESOURCES.md",
+      "title": "Useful BananaSplit resources",
+      "blurb": "A collection of useful resources to help you master BananaSplit"
+    }
+  ]
+}
